@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b>Hey {} How are you !!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-You can't add me to your group😊
+You can't add me to your group😊...
 
 For More Details Click Help Button Below..
 @ottmovies
