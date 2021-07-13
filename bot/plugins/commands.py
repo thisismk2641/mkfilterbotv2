@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'our channel', url="https://t.me/joinchat/KWZd6k_m9dU1MmZl"
+                                    '💫our channel💫', url="https://t.me/joinchat/KWZd6k_m9dU1MmZl"
                                 )
                         ]
                     ]
